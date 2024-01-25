@@ -17684,7 +17684,6 @@ code[class*=language-], pre[class*=language-] {
   }
 }
 
-/* Font family, Position and Overflow [NTR] */
 .overflow-hidden, .overflow-hidden-x {
   overflow-x: hidden;
 }
